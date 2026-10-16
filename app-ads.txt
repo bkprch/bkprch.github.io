@@ -1,2 +1,3 @@
-# app-ads.txt for Back Porch Arcade
-# The lines Roku provides go here once ads are turned on in the Roku developer dashboard.
+# app-ads.txt for Back Porch Arcade (Roku)
+# Ads in our games are sold only by Roku. We do not use third-party or programmatic ad sellers.
+Back Porch Arcade does not authorize programmatic sellers
